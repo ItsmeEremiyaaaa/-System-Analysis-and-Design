@@ -139,6 +139,6 @@ This project is open-sourced software licensed under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-**Jeremiah Falco** ([@ItsmeEremiyaaaa](https://github.com/ItsmeEremiyaaaa))
+**Jeremiah Falcon Escubido* ([@ItsmeEremiyaaaa](https://github.com/ItsmeEremiyaaaa))
 
 > Developed for System Analysis and Design — Academic Project
